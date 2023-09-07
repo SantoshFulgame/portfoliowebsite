@@ -19,7 +19,7 @@ You can view a live demo of my portfolio by clicking the following link:
 
 ![Portfolio Screenshot 1](https://github.com/SantoshFulgame/portfoliowebsite/blob/main/ScreenShot/1.png)
 
-![Portfolio Screenshot 2](screenshots/screenshot2.png)
+![Portfolio Screenshot 2](https://github.com/SantoshFulgame/portfoliowebsite/blob/main/ScreenShot/2.png)
 
 ## Usage
 
